@@ -1,0 +1,5 @@
+print("I am learning coading", "How is this code.")
+print("Hello World !")
+print(47)
+print (74)
+print(47+74)
